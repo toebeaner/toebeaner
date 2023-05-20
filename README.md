@@ -1,23 +1,23 @@
 **./toebeaner**
 # About Me
 ```py
-# shit dev who likes burgers
+yummyyummy()
 ```
 ```json
 {
     "interests": {
-        "Food": ["Burgers", "Pizza", "Ice Cream"],
+        "Food": ["Pizza", "Ice Cream"],
         "Animals": ["Cats", "Dogs", "Foxes"],
-        "Langauges": ["Python", "Lua", "JS", "CSS", "C#", "C++"],
+        "Langauges": ["Python", "Lua"],
         "Most Hated Language": "C++"
     },
 
     "Social Accounts": {
-        "Instagram": "https://www.instagram.com/t0ben_/",
+        "Instagram": "https://www.instagram.com/tb.swag/",
         "Github": "https://github.com/toebeaner"
     }
 }
 ```
 
 # Hyper Links
-[Instagram](https://www.instagram.com/t0ben_/), [Github](https://github.com/toebeaner)
+[Instagram](https://www.instagram.com/tb.swag/), [Github](https://github.com/toebeaner)
