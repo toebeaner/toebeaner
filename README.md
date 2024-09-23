@@ -6,10 +6,7 @@ yummyyummy()
 ```json
 {
     "interests": {
-        "Food": ["Pizza", "Ice Cream"],
-        "Animals": ["Cats", "Dogs", "Foxes"],
-        "Langauges": ["Python", "Lua"],
-        "Most Hated Language": "C++"
+        "Food": ["Pizza", "Pineapples"]
     },
 
     "Social Accounts": {
